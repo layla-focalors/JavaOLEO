@@ -1,5 +1,6 @@
 package oven;
 // 1~5 삼각별 찍기
+
 import java.util.Scanner;
 
 public class cupcake {
