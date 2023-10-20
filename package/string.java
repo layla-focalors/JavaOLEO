@@ -22,6 +22,8 @@ public class string{
         System.out.println(sentecne.substring(3, 8) + "\n");
         System.out.println("이것이 내가 원한 문자열인가? : " + sentecne.substring(3, 8).equals("Polite"));
         System.out.println("length for strings : " + sentecne.length());
-        
+        char[] charrar = sentecne.toCharArray();
+        System.out.println(charrar.length);
+        // String stringarr = charrar.toString();
     }
 }
