@@ -21,6 +21,7 @@ public class string{
         // 특정 범위의 인덱스 추출하기
         System.out.println(sentecne.substring(3, 8) + "\n");
         System.out.println("이것이 내가 원한 문자열인가? : " + sentecne.substring(3, 8).equals("Polite"));
+        System.out.println("length for strings : " + sentecne.length());
         
     }
 }
