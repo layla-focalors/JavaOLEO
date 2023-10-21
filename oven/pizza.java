@@ -1,4 +1,4 @@
-package dat2;
+package oven;
 import java.util.Scanner;
 
 public class pizza {
